@@ -1,0 +1,11 @@
+.venv/
+env/
+venv/
+
+__pycache__/
+*.pyc
+
+*.db
+sql_app.db
+
+.vscode/
